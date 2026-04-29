@@ -498,7 +498,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 📞 Contact & Support
 
 - **Author**: [Kuldeep Singh](https://github.com/iamyamraj)
-- **Email**: iamyamraj@gmail.com
 - **GitHub**: [@iamyamraj](https://github.com/iamyamraj)
 - **Issues**: [GitHub Issues](https://github.com/iamyamraj/civic_data_analysis/issues)
 
