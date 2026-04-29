@@ -3,7 +3,6 @@
 Interactive geospatial data visualization project analyzing civic engagement patterns in Vancouver and Toronto, Canada. Explore election data across Federal, Provincial, and Municipal boundaries with interactive maps, satellite views, and heat maps.
 
 **🌍 Live Demo**: [GitHub Pages Link - Coming Soon]
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamyamraj/civic_data_analysis/main?urlpath=voila%2Frender%2FFinal%20Civic%20Engagement%20Clean.ipynb)
 ---
 
 ## 📋 Table of Contents
